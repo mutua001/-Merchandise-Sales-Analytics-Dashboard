@@ -79,7 +79,6 @@ Used Excel's built-in Remove Duplicates tool:
 - Edit
   # 3. Data Visualization (Tableau)
  ## Tool: Tableau Desktop
-
 Steps:
 
 - Imported cleaned Excel/SQL data
@@ -101,11 +100,13 @@ Steps:
 - Filter by Location
 
 # 📈 Dashboards Created:
-
+![Dashboard](https://github.com/mutua001/-Merchandise-Sales-Analytics-Dashboard/blob/main/Deep%20Exploration.png)
 
 ## Transaction Records View
+![Dashboard](https://github.com/mutua001/-Merchandise-Sales-Analytics-Dashboard/blob/main/Detail%20Transaction%20Records.png)
 
 ### Tabular overview of every order
+![Dashboard](https://github.com/mutua001/-Merchandise-Sales-Analytics-Dashboard/blob/main/Overview.png)
 
 ### Conditional formatting for satisfaction (Red = Dissatisfied, Yellow = Neutral, Green = Satisfied)
 
